@@ -1,4 +1,4 @@
-# Pokerbots Competition 2026
+# Pokerbots Competition
 
 ## Project Overview
 
